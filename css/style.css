@@ -69,4 +69,8 @@
   border-top: 10px solid #000;
   border-right: 10px solid transparent;
   border-left: 10px solid transparent;
+}
+
+body.touch {
+  background-color: red;
 }/*# sourceMappingURL=style.css.map */
